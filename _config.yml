@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Make/Design/Code
 header-img: img/home-bg.png
 email: laura.trager@gmail.com
 copyright_name: ElleeB
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Design == Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ElleeB
