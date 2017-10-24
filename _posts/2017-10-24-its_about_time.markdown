@@ -32,7 +32,7 @@ For thirteen years I've taught digital art and design:
 I asked lots of people lots of questions.
 
 One of those people suggested I play a game, yes, a game: 
-[Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+[Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine).
 
 I played it.
 
