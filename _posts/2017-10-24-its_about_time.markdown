@@ -5,8 +5,6 @@ date:       2017-10-24 10:02:49 -0400
 permalink:  its_about_time
 ---
 
-<html>
----
 <p>I love to design.</p>
 <p>I love to create.</p>
 <p>I love experimentation, getting messy, being wrong, figuring out how to be right.</p>
