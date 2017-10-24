@@ -5,6 +5,7 @@ date:       2017-10-24 10:02:49 -0400
 permalink:  its_about_time
 ---
 
+<html>
 ---
 <p>I love to design.</p>
 <p>I love to create.</p>
@@ -44,6 +45,7 @@ For thirteen years I've taught digital art and design:
 [Me before](http://www.dumpaday.com/wp-content/uploads/2014/03/funny-dogs-sleeping-anywhere-28.jpg)
 
 [Look at me now!](https://i.pinimg.com/736x/60/34/6a/60346aad1a0e22af3e97ac9dd3118add--happy-puppy-happy-dogs.jpg)
+</html>
 
 
 
