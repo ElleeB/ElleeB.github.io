@@ -35,7 +35,7 @@ For thirteen years I've taught digital art and design:
 <p>I loved it.</p>
 <p>I asked lots more people lots more questions about coding and development.</p>
 <p>I got lots of answers.</p>
-<p>I dabled in a variety of courses on MATLAB, JavaScript, Python, and the [CS50: Intro to Computer Science.](http://http://online-learning.harvard.edu/course/cs50-introduction-computer-science).</p>
+<p>I dabled in a variety of courses on MATLAB, JavaScript, Python, and the [CS50: Intro to Computer Science](http://http://online-learning.harvard.edu/course/cs50-introduction-computer-science).</p>
 <p>Done. I knew I wanted to be a computer wizard.</p>
 <p>Lots and lots of research led me to Flatiron, and here I am. I couldn't be happier.</p>
 
@@ -43,7 +43,6 @@ For thirteen years I've taught digital art and design:
 [Me before](http://www.dumpaday.com/wp-content/uploads/2014/03/funny-dogs-sleeping-anywhere-28.jpg)
 
 [Look at me now!](https://i.pinimg.com/736x/60/34/6a/60346aad1a0e22af3e97ac9dd3118add--happy-puppy-happy-dogs.jpg)
-</html>
 
 
 
