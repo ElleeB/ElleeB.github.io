@@ -31,7 +31,7 @@ For thirteen years I've taught digital art and design:
 
 I asked lots of people lots of questions.
 
-One of those people suggested I play a game, yes, a game: <br>
+One of those people suggested I play a game, yes, a game: <br></br>
 [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine).
 
 I played it.
@@ -42,7 +42,7 @@ I asked lots more people lots more questions about coding and development.
 
 I got lots of answers.
 
-I dabled in a variety of courses on MATLAB, JavaScript, Python, and Harvard's <br>
+I dabled in a variety of courses on MATLAB, JavaScript, Python, and Harvard's <br></br>
 [CS50: Intro to Computer Science](http://online-learning.harvard.edu/course/cs50-introduction-computer-science).
 
 Done. I knew I wanted to be a computer wizard.
