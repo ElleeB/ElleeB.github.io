@@ -15,7 +15,7 @@ permalink:  its_about_time
 <p>I love a challenge - I love success.</p>
 
 --- 
-## How did I get here?
+## **How did I get here?**
 For thirteen years I've taught digital art and design:
 * Graphic Design
 * Digital Photography
@@ -27,7 +27,7 @@ For thirteen years I've taught digital art and design:
 * Animate
 * After Effects
 
-### I began dreaming of a career change
+### **I began dreaming of a career change**
 
 I asked lots of people lots of questions.
 
