@@ -30,12 +30,12 @@ For thirteen years I've taught digital art and design:
 ### I began dreaming of a career change
 
 <p>I asked lots of people lots of questions.</p>
-<p>One of those people suggested I play a game, yes, a game:  [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) </p>
+<p>One of those people suggested I play a game, yes, a game:  [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) 
 <p>I played it.</p>
 <p>I loved it.</p>
 <p>I asked lots more people lots more questions about coding and development.</p>
 <p>I got lots of answers.</p>
-<p>I dabled in a variety of courses on MATLAB, JavaScript, Python, and the [CS50: Intro to Computer Science](http://online-learning.harvard.edu/course/cs50-introduction-computer-science).</p>
+<p>I dabled in a variety of courses on MATLAB, JavaScript, Python, and the [CS50: Intro to Computer Science](http://online-learning.harvard.edu/course/cs50-introduction-computer-science).
 <p>Done. I knew I wanted to be a computer wizard.</p>
 <p>Lots and lots of research led me to Flatiron, and here I am. I couldn't be happier.</p>
 
