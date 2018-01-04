@@ -7,10 +7,10 @@ permalink:  test_driven
 
 
 After 13 years as an educator, I know that one of the most important questions one can ask while preparing a lesson is:
-##### What do I want my students to know and be able to do as a result of my instruction?
+### What do I want my students to know and be able to do as a result of my instruction?
 
 I’ve learned quickly that, as a programmer,  this same question is essential, though I’ll reword it: 
-##### What do I want my program to know and be able to do as a result of my code?
+### What do I want my program to know and be able to do as a result of my code?
 As I learn more and more about Test Driven Development (TDD), I wonder how anyone ever went through, or still goes through the process of developing in any other way.
 
 Like scaffolding (an awesome education term for beginning at the beginning (you might think, “duh!”, but you’d be surprised), you begin slowly, in small, digestible chunks, building students’ understanding and skills.
