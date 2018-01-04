@@ -6,7 +6,7 @@ permalink:  test_driven
 ---
 
 
-After 13 years as an educator, I know that one of the most important questions one can ask while preparing a lesson is:
+**After 13 years as an educator,** I know that one of the most important questions one can ask while preparing a lesson is:
 
 **What do I want my students to know and be able to do as a result of my instruction?**
 
