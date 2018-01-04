@@ -29,16 +29,17 @@ class Artist
   # adds the song to the current artist's 'songs' collection
   # does not add the song to the current artist's collection of songs if it already exists therein
 
-    # does the song have an artist? no?
+    # does the song have an artist?
+		# if no...
     if song.artist == nil
-      # no? assign artist's self to song
+      # assign artist's self to song
       song.artist = self
         # does the song exist in the artist's collection of songs?
         # yes? do nothing
         # no? add it
         self.songs.detect{|s| s == song} ? nil : @songs << song
     else
-      # does the song has an artist? yes?
+      # does the song have an artist? yes?
       self.songs.detect{|s| s == song} ? nil : @songs << song
     end
     
