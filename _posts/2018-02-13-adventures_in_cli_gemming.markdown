@@ -48,7 +48,7 @@ class FindaPark::State
     # use collection of states to instantiate state
     # assign name, url
   end
-```
+	```
 	
 	
 Here is a snapshot of how the  methods evolved together, maintaining equivalent patterns.
