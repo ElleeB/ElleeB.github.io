@@ -30,9 +30,7 @@ class FindaPark::Park
     # assign designation, name, city, blurb, url
   end
 	...
-```
 
-```
 
 class FindaPark::State
 
