@@ -48,7 +48,7 @@ class FindaPark::State
     # use collection of states to instantiate state
     # assign name, url
   end
-	```
+```
 	
 	
 Here is a snapshot of how the  methods evolved together, maintaining equivalent patterns.
@@ -103,7 +103,7 @@ class FindaPark::State
       FindaPark::State.new(state_hash)
     end
   end
-	```
+```
 	
 	
 As the code becomes more abstract, the already established patterns/structure make it easy to move between classes and objects, easily accessing the code, and  easily making adjustments and improvements, because really, if you figure it out for one, you've figured it out for both. Just cut and paste!
@@ -127,7 +127,7 @@ def initialize(park_hash)
     end
     self.save
   end
-	```
-	
-	My project can be found [here](https://github.com/ElleeB/nps-finda-park-cli-app).
+```
+
+My project can be found [here](https://github.com/ElleeB/nps-finda-park-cli-app).
 
