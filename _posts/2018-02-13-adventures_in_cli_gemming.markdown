@@ -12,7 +12,7 @@ I just completed my first something-from-nothing Ruby gem. The process was chall
 
 Patterns must be consciously and purposefully set up immediately during planning. For instance, when creating objects, one must consider in what way the object will be instantiated, saved, and related to other objects. Given that there are a million-and-one ways to accomplish any given method/function, it's essential for a developer to determine which structure, or solution is most effective -- even if a more effective and/or efficient means is discovered later -- and then cut and paste! 
 
-Example: my Park and State classes in their earliest stages are almost identical.
+Example: my Park and State classes in their earliest stages are identical in their structure.
 ```
 class FindaPark::Park
 
@@ -31,6 +31,7 @@ class FindaPark::Park
   end
 	...
 
+---
 
 class FindaPark::State
 
@@ -46,6 +47,62 @@ class FindaPark::State
   def self.create_from_collection
     # use collection of states to instantiate state
     # assign name, url
+  end
+	...
+	```
+	
+Here is a snapshot of how the  methods evolved together, maintaining equivalent patterns.
+	
+
+```
+class FindaPark::Park
+
+  attr_accessor :name, :state, :designation, :city, :park_url, :contact, :blurb, :info_url...
+
+  @@all_parks = []
+
+  def initialize(park_hash)
+    @name = park_hash[:name]
+    @state = park_hash[:state]
+    @designation = park_hash[:designation]
+    @city = park_hash[:city] # !!! city return is odd !!! #
+    @park_url = park_hash[:park_url]
+    @contact = park_hash[:contact]
+    @blurb = park_hash[:blurb]
+    @info_url = park_hash[:info_url]
+    @catch_phrase = park_hash[:catch_phrase]
+    @season_info = nil
+    @hours = nil
+    self.save
+  end
+
+  def self.create_from_collection(parks_array)
+    parks_array.each do |park_hash|
+      FindaPark::Park.new(park_hash)
+    end
+  end
+	...
+
+---
+	
+class FindaPark::State
+
+  attr_accessor :name, :url, :park
+
+  @@all_states = []
+  @parks = []
+
+  def initialize(state_hash)
+    @name = state_hash[:name]
+    @url = state_hash[:url]
+    @park = nil
+    self.save
+  end
+
+  def self.create_from_collection(states_array)
+    states_array.each do |state_hash|
+      FindaPark::State.new(state_hash)
+    end
   end
 	...
 	```
