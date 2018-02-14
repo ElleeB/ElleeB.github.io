@@ -29,9 +29,8 @@ class FindaPark::Park
     # use collection of parks to instantiate park
     # assign designation, name, city, blurb, url
   end
-	...
 
----
+
 
 class FindaPark::State
 
@@ -48,7 +47,7 @@ class FindaPark::State
     # use collection of states to instantiate state
     # assign name, url
   end
-	...
+	
 	```
 	
 	
@@ -82,9 +81,8 @@ class FindaPark::Park
       FindaPark::Park.new(park_hash)
     end
   end
-	...
 
----
+
 	
 class FindaPark::State
 
@@ -105,7 +103,7 @@ class FindaPark::State
       FindaPark::State.new(state_hash)
     end
   end
-	...
+	
 	```
 	
 	
@@ -121,9 +119,8 @@ def initialize(park_hash)
     end
     self.save
   end
-	...
 
----
+
 
   def initialize(state_hash)
     state_hash.each do |key, value|
