@@ -106,3 +106,28 @@ class FindaPark::State
   end
 	...
 	```
+	
+As the code becomes more abstract, the already established patterns/structure make it easy to move between classes and objects, easily accessing the code, and  easily making adjustments and improvements, because really, if you figure it out for one, you've figured it out for both. Just cut and paste!
+
+Final Park and State initialize example:
+
+```  
+def initialize(park_hash)
+    park_hash.each do |key, value|
+      self.send("#{key}=", value)
+    end
+    self.save
+  end
+	...
+
+---
+
+  def initialize(state_hash)
+    state_hash.each do |key, value|
+      self.send("#{key}=", value)
+    end
+    self.save
+  end
+	...
+	```
+
