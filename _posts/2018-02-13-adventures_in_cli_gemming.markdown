@@ -10,7 +10,7 @@ Creating something from nothing produces, for me, is one of my most rewarding ex
 
 I just completed my first something-from-nothing Ruby gem. The process was challenging, frustrating, and entirely fun. The problem-solving, testing, pattern recognition can be likened, again, to creating a piece of art or design. It's become clear that patterns are key in every single stage of development.
 
-Patterns must be consciously and purposefully set up immediately during planning. For instance, when creating objects, one must consider in what way the object will be instantiated, saved, and related to other objects. Given that there are a million-and-one ways to accomplish any given method/function, it's essential for a developer to determine which structure, or solution is most effective (even if a more effective and/or efficient means is discovered later), and then cut and paste! 
+Patterns must be consciously and purposefully set up immediately during planning. For instance, when creating objects, one must consider in what way the object will be instantiated, saved, and related to other objects. Given that there are a million-and-one ways to accomplish any given method/function, it's essential for a developer to determine which structure, or solution is most effective -- even if a more effective and/or efficient means is discovered later -- and then cut and paste! 
 
 Example: my Park and State classes in their earliest stages are almost identical.
 ```
