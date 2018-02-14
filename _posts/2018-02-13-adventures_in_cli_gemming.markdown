@@ -13,6 +13,7 @@ I just completed my first something-from-nothing Ruby gem. The process was chall
 Patterns must be consciously and purposefully set up immediately during planning. For instance, when creating objects, one must consider in what way the object will be instantiated, saved, and related to other objects. Given that there are a million-and-one ways to accomplish any given method/function, it's essential for a developer to determine which structure, or solution is most effective -- even if a more effective and/or efficient means is discovered later -- and then cut and paste! 
 
 Example: my Park and State classes in their earliest stages are identical in their structure.
+
 ```
 class FindaPark::Park
 
@@ -47,7 +48,6 @@ class FindaPark::State
     # use collection of states to instantiate state
     # assign name, url
   end
-	
 	```
 	
 	
@@ -103,7 +103,6 @@ class FindaPark::State
       FindaPark::State.new(state_hash)
     end
   end
-	
 	```
 	
 	
@@ -128,6 +127,5 @@ def initialize(park_hash)
     end
     self.save
   end
-	
 	```
 
