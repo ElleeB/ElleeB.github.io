@@ -128,6 +128,6 @@ def initialize(park_hash)
     end
     self.save
   end
-	...
+	
 	```
 
