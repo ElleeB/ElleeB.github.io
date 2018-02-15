@@ -17,8 +17,6 @@ As the code becomes more abstract, the already established patterns/structure ma
 
 Example: my Park and State classes in their earliest stages are identical in their structure.
 
-
-
 ```
 class FindaPark::Park
 
