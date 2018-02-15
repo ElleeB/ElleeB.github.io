@@ -14,44 +14,7 @@ Patterns must be consciously and purposefully set up immediately during planning
 
 As the code becomes more abstract, the already established patterns/structure make it easy to move between classes and objects, easily accessing the code, and  easily making adjustments and improvements, because really, if you figure it out for one, you've figured it out for both. Just cut and paste!
 
+*I attempted to provide snippets of my code to illustrate my point, but no matter what I've tried, the post, though formatted properly here, will not appear properly formatted on my blog page.*
 
-Example: my Park and State classes in their earliest stages are identical in their structure.
-
-```
-class FindaPark::Park
-
-  attr_accessor :name, :state, :city, :contact, :blurb, :url, :catch_phrase, :season_info, :hours
-
-  @@all_parks = []
-
-  def initialize
-    # assign attributes
-    # save
-  end
-
-  def self.create_from_collection
-    # use collection of parks to instantiate park
-    # assign designation, name, city, blurb, url
-  end
-	---
-class FindaPark::State
-
-  attr_accessor :name, :url, :parks
-
-  @@all_states = []
-
-  def initialize
-    # assign attributes
-    # save
-  end
-
-  def self.create_from_collection
-    # use collection of states to instantiate state
-    # assign name, url
-  end
-	```
-
----
-
-My project can be found [here](https://github.com/ElleeB/nps-finda-park-cli-app).
+Please see my code  [here](https://github.com/ElleeB/nps-finda-park-cli-app).
 
