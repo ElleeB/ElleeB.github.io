@@ -33,8 +33,8 @@ class FindaPark::Park
     # use collection of parks to instantiate park
     # assign designation, name, city, blurb, url
   end
-
-
+	
+	---
 
 class FindaPark::State
 
