@@ -6,7 +6,7 @@ permalink:  adventures_in_cli_gemming
 ---
 
 
-Creating something from nothing produces, for me, is one of my most rewarding experiences. Like creating a painting or a photograph, designing not only the structure and user experience of an application, but the structure and readability of the code is like an art, no matter how simple.
+Creating something from nothing, for me, is one of my most rewarding experiences. Like creating a painting or a photograph, designing not only the structure and user experience of an application, but the structure and readability of the code is like an art, no matter how simple.
 
 I just completed my first something-from-nothing Ruby gem. The process was challenging, frustrating, and entirely fun. The problem-solving, testing, pattern recognition can be likened, again, to creating a piece of art or design. It's become clear that patterns are key in every single stage of development.
 
