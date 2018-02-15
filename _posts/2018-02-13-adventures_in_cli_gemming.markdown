@@ -14,7 +14,7 @@ Patterns must be consciously and purposefully set up immediately during planning
 
 As the code becomes more abstract, the already established patterns/structure make it easy to move between classes and objects, easily accessing the code, and  easily making adjustments and improvements, because really, if you figure it out for one, you've figured it out for both. Just cut and paste!
 
-*I attempted to provide snippets of my code to illustrate my point, but no matter what I've tried, the post, though formatted properly here, will not appear properly formatted on my blog page.*
+*I attempted to provide snippets of my code to illustrate my point, but no matter what I've tried, the post, though formatted properly in the blog editor, will not appear properly formatted on this blog page.*
 
 Please see my code  [here](https://github.com/ElleeB/nps-finda-park-cli-app).
 
