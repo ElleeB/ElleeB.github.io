@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Process Makes Perfect"
-date:       2018-04-11 13:59:35 +0000
+date:       2018-04-11 09:59:35 -0400
 permalink:  process_makes_perfect
 ---
 
@@ -92,4 +92,4 @@ Then I organized the directory structure:
 
 ---
 
-By the time I opened Atom, I had the entire app planned out. This is not to say that I didn’t run into some great coding challenges, like using checkboxes as add OR remove based on checked or unchecked. It all came together quickly, which reminds me how important the process is, as always. This was by far my favorite experience in my learning thus far.
+By the time I opened Atom, I had the entire app planned out. This is not to say that I didn’t run into some great coding challenges, like using checkboxes as add OR remove based on checked or unchecked. It all came together quickly, which reminds me how important the process is, as always. This was my favorite experience in my learning thus far.
