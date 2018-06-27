@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Take A Break."
-date:       2018-06-27 16:25:26 +0000
+date:       2018-06-27 12:25:27 -0400
 permalink:  take_a_break
 ---
 
